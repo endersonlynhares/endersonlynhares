@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enderson Linhares</h1>
-<h3 align="center">A beginning front-end developer</h3>
+<h3 align="center">A beginning fullstack developer and a great connoisseur of the art of programming</h3>
 
-- 🌱 I’m currently learning **Mysql, Flask**
+- 🌱 I’m currently learning **Java**
 
 - 🎓 Becoming an IT technician at **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
