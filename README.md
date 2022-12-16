@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enderson Linhares</h1>
 <h3 align="center">A beginning fullstack developer and a great connoisseur of the art of programming</h3>
 
-- 🌱 I’m currently learning **MongoDB, TypeScript and NodeJs**
+- 🌱 I’m currently improving **MongoDB, ReactJS and NodeJs**
 
-- 🎓 Becoming an IT technician at **EEEP RAIMUNDO CÉLIO RODRIGUES**
+- 🎓 A computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
