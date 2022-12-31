@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving **MongoDB, ReactJS and NodeJs**
 
-- 🎓 A computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
+- 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
