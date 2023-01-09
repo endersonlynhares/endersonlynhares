@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enderson Linhares</h1>
-<h3 align="center">A beginning fullstack developer and a great connoisseur of the art of programming</h3>
+<h3 align="center">A beginning front-end developer and a great connoisseur of the art of programming</h3>
 
 - 🌱 I’m currently improving **ReactJS and TypeScript**
 
