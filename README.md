@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently improving **ReactJS and TypeScript**
 
+- 🎓 Graduating in INFORMATION SYSTEM at UFC - Quixadá 
+
 - 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
-- 🎓 Future majoring in INFORMATION SYSTEM at UFC - Quixadá
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
