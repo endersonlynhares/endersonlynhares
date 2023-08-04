@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving **ReactJS and TypeScript**
 
-- 🎓 Graduating in INFORMATION SYSTEM at UFC - Quixadá 
+- 🎓 Graduating in COMPUTER SCIENCE at IFCE - Maracanaú 
 
 - 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
