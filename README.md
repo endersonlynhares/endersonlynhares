@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enderson Linhares</h1>
 <h3 align="center">A beginning front-end developer and a great connoisseur of the art of programming</h3>
 
-- 🌱 I’m currently improving **ReactJS and TypeScript**
+- 🌱 I’m currently improving **Angular and TypeScript**
 
-- 🎓 Graduating in COMPUTER SCIENCE at IFCE - Maracanaú 
+- 🎓 Graduating in COMPUTER SCIENCE at IFCE - Maracanaú
+
+- Front-end Developer for the Núcleo de Desenvolvimento de Software (NDS) at IFCE
 
 - 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
