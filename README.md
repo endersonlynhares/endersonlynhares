@@ -5,7 +5,7 @@
 
 - 🎓 Graduating in COMPUTER SCIENCE at IFCE - Maracanaú
 
-- Front-end Developer for the Núcleo de Desenvolvimento de Software (NDS) at IFCE
+- Full-stack Developer for the NeoCode Solutions
 
 - 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
