@@ -5,7 +5,7 @@
 
 - 🎓 Graduating in COMPUTER SCIENCE at IFCE - Maracanaú
 
-- Full-stack Developer for the NeoCode Solutions
+- Full-stack Developer for Kidsa English
 
 - 🎓 A Computer Technician degreed from **EEEP RAIMUNDO CÉLIO RODRIGUES**
 
